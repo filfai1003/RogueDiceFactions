@@ -32,24 +32,28 @@ int main(int argc, char const *argv[])
 
 void initEngine()
 {
+    // TODO
     // Engine initialization logic goes here
     // For example, setting up graphics, audio, etc.
 }
 
 void update()
 {
+    // TODO
     // Update logic for the engine
     // This could include processing input, updating game state, etc.
 }
 
 void render()
 {
+    // TODO
     // Render logic for the engine
     // This could include drawing graphics to the screen
 }
 
 void shutdownEngine()
 {
+    // TODO
     // Cleanup logic for the engine
     // This could include releasing resources, saving state, etc.
 }
