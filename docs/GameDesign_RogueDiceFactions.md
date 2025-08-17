@@ -106,3 +106,7 @@ Each run is unique: map, enemies, equipment, and interactions change, and the pl
 - GitHub repo with README + UML diagrams.  
 - Short demo video (2–3 minutes) showcasing: world gen, factions, dice mechanics, run victory/defeat.  
 - Minimal documentation (architecture overview, explanation of DiceSystem and AI).  
+
+## How to run:
+# Test Engine
+g++ -std=c++17 tests/test_engine.cpp src/engine/math_utils.cpp src/engine/timer.cpp -o tests/test_engine; ./tests/test_engine
